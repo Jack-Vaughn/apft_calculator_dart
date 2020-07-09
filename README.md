@@ -1,18 +1,11 @@
-# apftcalculator
+# APFT Calculator Written in Dart/Flutter
 
-APFT Calculator
+# THIS IS A WORK IN PROGRESS
 
-## Getting Started
+This APFT Calculator should be able to run on Android, iOS, Web, Mac OS, and soon, Linux and Windows.
 
-This project is a starting point for a Flutter application.
+While SQLite would have been a perfect fit for this application, it is currently not supported for Flutter Web applications. This is the reasoning for currently using the hardcoded values. Once Flutter Web can use SQLite, it will be used instead.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This template should also allow for easy translation to the new upcoming ACFT.
 
 ![Alt text](readme_img.png?raw=true "Title")
